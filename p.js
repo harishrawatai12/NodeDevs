@@ -4,6 +4,9 @@ function a() {
             console.log('a')
             resolve(1);
         }, 10000);
+
+
+        
     })
 }
 
